@@ -1,0 +1,16 @@
+  **** HLS Build v2024.2 5238294
+Sourcing Tcl script 'C:/Users/yusuf/OneDrive/Masaüstü/UCSD/CSE237C/cordic/cordic_2b/cordiccart2pol_ip.tcl'
+C:/Users/yusuf/OneDrive/Masaüstü/UCSD/CSE237C/cordic/cordic_2b/cordiccart2pol_ip.tcl can't be opened.
+INFO: [HLS 200-1510] Running: open_component cordiccart2pol.comp -reset 
+INFO: [HLS 200-10] Creating and opening project 'C:/Users/yusuf/OneDrive/Masaüstü/UCSD/CSE237C/cordic/cordic_2b/cordiccart2pol.comp'.
+INFO: [HLS 200-10] Creating and opening solution 'C:/Users/yusuf/OneDrive/Masaüstü/UCSD/CSE237C/cordic/cordic_2b/cordiccart2pol.comp/hls'.
+INFO: [HLS 200-10] Cleaning up the solution database.
+command 'ap_source' returned error code
+    while executing
+"source C:/Users/yusuf/OneDrive/Masaüstü/UCSD/CSE237C/cordic/cordic_2b/cordiccart2pol_ip.tcl"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel \#0 [list source $tclfile] "
+
+INFO: [HLS 200-112] Total CPU user time: 0 seconds. Total CPU system time: 1 seconds. Total elapsed time: 0.792 seconds; peak allocated memory: 31.461 MB.
+INFO: [vitis-run 60-1662] Stopping dispatch session having empty uuid.
